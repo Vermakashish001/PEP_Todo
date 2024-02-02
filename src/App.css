@@ -8,13 +8,14 @@
   box-sizing: border-box;
 }
 .container > h1{
-  border: 2px solid red;
+  /* border: 2px solid red; */
   text-align: center;
   padding: 20px;
   width: 90%;
+  background-color: blue;
 }
 .container .row{
-  border: 2px solid blue;
+  /* border: 2px solid blue; */
   width: 90%;
   padding: 20px;
   display: grid;
