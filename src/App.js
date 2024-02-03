@@ -6,7 +6,7 @@ export default function App() {
   const [active,setActive] = useState("INBOX")
   return (
     <div className='container'>
-      <h1>Adfar's Todo Application</h1>
+      <h1>Kashish's Todo Application</h1>
       <div className="row">
          <div className="item item1">
            <SideNav change={setActive}/>
